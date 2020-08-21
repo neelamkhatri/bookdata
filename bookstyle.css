@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+.d-flex{
+margin-right:auto;
+padding-right:inherit;
+}
+.box {
+	border-radius: 5px 10px 15px 20px;
+	border: 3px solid lightblue;
+	height: 200px;
+	width: 200px;
+}
